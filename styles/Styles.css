@@ -1,0 +1,41 @@
+.headingdesign{
+    border: 3px;
+    opacity: 0.75;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.textbox{
+    border: 3px;
+    background-color: lavender;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border-radius: 5px;
+    margin-top: 100px;
+}  
+.textbox2{
+    border: 3px;
+    background-color: lavender;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 175px;
+    text-align: justify;
+}
+
+.subheading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.contactme{
+    align-content: center
+}
